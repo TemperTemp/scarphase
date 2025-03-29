@@ -1,7 +1,7 @@
 {
   "cycles": {
     "full-name": "PERF_COUNT_HW_CPU_CYCLES",
-    "config" : 0,
+    "config" : 1,
     "type": 0
   },
 	
